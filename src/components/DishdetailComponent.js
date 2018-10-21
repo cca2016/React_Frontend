@@ -30,11 +30,10 @@ class DishDetail  extends Component {
                 console.log(dish.comments);
                 const dishComments = dish.comments.map((comment) => {
                     return (
-                        <div>
-                            <p>{comment.comment}</p>
-                            <p>--{comment.author},{comment.date}</p>
-                        </div>
-                        
+                        <ul class="list-unstyled">
+                            <li>{comment.comment}</li>
+                            <li>--{comment.author},{comment.date}</li>
+                        </ul>               
                     );
                         
                     //{console.log(comment.rating)}
