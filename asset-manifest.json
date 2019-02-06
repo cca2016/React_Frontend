@@ -1,7 +1,7 @@
 {
   "main.css": "/Restaurant-Application/static/css/main.ccebce87.chunk.css",
-  "main.js": "/Restaurant-Application/static/js/main.8371c732.chunk.js",
-  "main.js.map": "/Restaurant-Application/static/js/main.8371c732.chunk.js.map",
+  "main.js": "/Restaurant-Application/static/js/main.febfaf36.chunk.js",
+  "main.js.map": "/Restaurant-Application/static/js/main.febfaf36.chunk.js.map",
   "static/css/1.9d5c502a.chunk.css": "/Restaurant-Application/static/css/1.9d5c502a.chunk.css",
   "static/js/1.f1c20d15.chunk.js": "/Restaurant-Application/static/js/1.f1c20d15.chunk.js",
   "static/js/1.f1c20d15.chunk.js.map": "/Restaurant-Application/static/js/1.f1c20d15.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.ccebce87.chunk.css.map": "/Restaurant-Application/static/css/main.ccebce87.chunk.css.map",
   "static/css/1.9d5c502a.chunk.css.map": "/Restaurant-Application/static/css/1.9d5c502a.chunk.css.map",
   "index.html": "/Restaurant-Application/index.html",
-  "precache-manifest.4cb8dee9ed01d87c92aae0035391dfc4.js": "/Restaurant-Application/precache-manifest.4cb8dee9ed01d87c92aae0035391dfc4.js",
+  "precache-manifest.4a53f79828f5737d0f4c9a86e22d3c9e.js": "/Restaurant-Application/precache-manifest.4a53f79828f5737d0f4c9a86e22d3c9e.js",
   "service-worker.js": "/Restaurant-Application/service-worker.js"
 }
