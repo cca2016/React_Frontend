@@ -4,6 +4,13 @@ import { Link } from 'react-router-dom';
 
 function About(props) {
 
+    const leaders = props.leaders.map((leader) => {
+        return (
+            <>
+                <RenderLeader item={leader}/>
+            </>
+        );
+    });
     function RenderLeader({item}){
         return(
             <Media className="p-3">
@@ -21,13 +28,7 @@ function About(props) {
             </Media>
         );
     }
-    const leaders = props.leaders.map((leader) => {
-        return (
-            <>
-                <RenderLeader item={leader}/>
-            </>
-        );
-    });
+    
 
     
     return(
