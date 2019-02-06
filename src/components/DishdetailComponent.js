@@ -7,8 +7,9 @@ import { Link } from 'react-router-dom';
         if (dish != null)
             return(
                 <Card>
+                    <CardImg top src={dish.image} alt={dish.name}/>
                     <CardBody className="d-none d-sm-block">
-                    <img src={dish.image} alt={dish.name} />
+                    {/*<img src={dish.image} alt={dish.name} />*/}
                     <CardTitle>{dish.name}</CardTitle>
                     <CardText>{dish.description}</CardText>
                     </CardBody>
