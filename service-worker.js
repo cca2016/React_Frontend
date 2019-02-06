@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/restaurant/precache-manifest.73b440689f87ebff117a115d5353a2f9.js"
+  "/Restaurant-Application/precache-manifest.4cb8dee9ed01d87c92aae0035391dfc4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/restaurant/index.html", {
+workbox.routing.registerNavigationRoute("/Restaurant-Application/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
