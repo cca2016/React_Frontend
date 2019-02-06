@@ -17,7 +17,7 @@ function About(props) {
             <Media className="p-3">
                 <Media left className="p-2" >
                     {/*<Media object src={item.image} />*/}
-                    <img src={item.image}></img>
+                    <img src={item.image} alt={item.name}/>
                 </Media>
                 <Media body className="p-1">
                     <Media heading>
