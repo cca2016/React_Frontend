@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0c7483bde08fee5e7c88",
+    "revision": "5288f0a0b74352598412",
     "url": "/Restaurant-Application/static/css/main.ccebce87.chunk.css"
   },
   {
-    "revision": "0c7483bde08fee5e7c88",
-    "url": "/Restaurant-Application/static/js/main.0c7483bd.chunk.js"
+    "revision": "5288f0a0b74352598412",
+    "url": "/Restaurant-Application/static/js/main.5288f0a0.chunk.js"
   },
   {
     "revision": "76f034c929dc88843ea2",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/Restaurant-Application/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "208b0757509076a51cb63f2423997fbb",
+    "revision": "e0fc2e6103c3c3b3c55c538661a7da1f",
     "url": "/Restaurant-Application/index.html"
   }
 ];
